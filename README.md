@@ -2,10 +2,6 @@
 
 <br>
 
-### my personal open diary sharing my experience as i build my research, family, && legacy
-
-<br>
-
 ---
 
 ### if you want to use this code
