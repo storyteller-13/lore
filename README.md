@@ -2,10 +2,6 @@
 
 <br>
 
-### if you want to use this code
-
-<br>
-
 #### 1. create a new entry
 
 <br>
