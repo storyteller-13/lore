@@ -1,4 +1,4 @@
-## 💜 bt3gl's loyal.love.lore 
+## 💜 bt3gl's loyal.love.lore
 
 <br>
 
