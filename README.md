@@ -39,12 +39,3 @@ make server
 make post-post
 ```
 
-<br>
-
-#### 4. rss subscription
-
-<br>
-
-* you can subscribe with [rss.xml](rss.xml)
-
-<br>
