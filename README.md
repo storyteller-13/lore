@@ -1,4 +1,4 @@
-## 💜 bt3gl's loyal.love.lore
+## lore.vonsteinkirch.com
 
 <br>
 
