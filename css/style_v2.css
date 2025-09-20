@@ -11,7 +11,7 @@
 
 body {
     margin: 0.5rem 0.5rem;
-    padding: 2rem 8rem 2rem 8rem;
+    padding: 1rem 6rem 1rem 6rem;
     color: black;
     background-color: white;
     font-family: 'Calibri', sans-serif;
@@ -170,7 +170,7 @@ a:hover {
 /* Footer Styles */
 .footer {
     text-align: center;
-    margin: 2rem 0 1rem 0;
+    margin: 1rem 0 1rem 0;
     font-size: 1em;
     color: rgb(59, 58, 60);
     opacity: 0.7;
