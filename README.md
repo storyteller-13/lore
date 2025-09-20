@@ -31,9 +31,6 @@ make post
 make server
 ```
 
-<br>
-
-#### 3. lint everything and update the rss file
 
 ```bash
 make post-post
