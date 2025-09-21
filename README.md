@@ -23,7 +23,17 @@ make post
 
 <br>
 
-#### 2. parse the post in your browser ([localhost:8022](http://localhost:8022))
+#### 2. lint the post
+
+<br>
+
+```bash
+make post-post
+```
+
+<br>
+
+#### 3. parse the post in your browser ([localhost:8022](http://localhost:8022))
 
 <br>
 
@@ -31,8 +41,4 @@ make post
 make server
 ```
 
-
-```bash
-make post-post
-```
 
