@@ -5,11 +5,11 @@
   "type": "module",
   "dependencies": {
     "feedparser": "^2.2.10",
-    "glob": "^10.4.5",
+    "glob": "^13.0.6",
     "prettier": "^3.5.3"
   },
   "devDependencies": {
-    "html-validate": "^8.1.0",
+    "html-validate": "^11.5.3",
     "markdown-link-check": "^3.12.0",
     "write-good": "^1.0.8"
   }
