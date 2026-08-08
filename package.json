@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "html-validate": "^8.1.0",
-    "markdown-link-check": "^3.12.0",
+    "markdown-link-check": "^3.14.2",
     "write-good": "^1.0.8"
   }
 }
